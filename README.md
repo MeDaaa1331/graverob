@@ -25,4 +25,4 @@ Grave robbing system for FiveM
 **Showcase:**
 https://streamable.com/b4i1o4
 
-**For proper functionality, visit discord.gg/dJ647fJ5fW and add #minigames to your server**
+**For proper functionality, visit https://discord.gg/dJ647fJ5fW and add #minigames to your server**
