@@ -1,6 +1,6 @@
 # MD - Graverob
-Grave robbing system for FiveM
 
+- Add md-graverob and [minigames] to your server and ensure
 - Grave robbing system made for OX
 - CD_Dispatch alerts implemented
 - Open code
