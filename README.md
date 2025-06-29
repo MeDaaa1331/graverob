@@ -6,8 +6,9 @@ Grave robbing system for FiveM
 - Open code
 - Discord logs included
 - Minigame included
+
 ﻿
-**﻿Config:**
+**﻿Configurable:**
 - Grave locations
 - Item drops
 - Chances
